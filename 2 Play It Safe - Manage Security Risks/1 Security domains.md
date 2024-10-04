@@ -3,8 +3,10 @@
 1. Security goals and risk management:
    - Defining security goals and objectives
    - Risk mitigation
+      - Having the right procedures and rules in place to quickly reduce the impact of a risk like a breach
    - Compliance
    - Business continuity
+        -  Relates to an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans.
    - Legal regulations
 2. Asset security:
    - Security digital & physical assets
